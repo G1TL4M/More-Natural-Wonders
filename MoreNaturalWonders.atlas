@@ -5,14 +5,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Socatra
   rotate: false
-  xy: 4, 0
+  xy: 4, 6
   size: 32, 30
   orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Blood Falls
   rotate: false
-  xy: 44, 0
+  xy: 44, 6
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
