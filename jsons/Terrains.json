@@ -212,46 +212,6 @@
 		"unbuildable": true,
 		"weight": 10
 	},
-	// BNW wonders
-	{
-		"name": "King Solomon's Mines",
-		"type": "NaturalWonder",
-		"production": 6,
-		"overrideStats": true,
-		"occursOn": ["Plains","Desert"],
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles"],
-		"turnsInto": "Plains",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 4
-	},
-	{// Will be introduced in Brave New World. Despite being a lake, it cannot be sailed on and it blocks line of sight like a mountain.
-		"name": "Lake Victoria",
-		"type": "NaturalWonder",
-		"food": 6,
-		"occursOn": ["Plains"],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"uniques": ["Fresh water","Must be adjacent to [0] [Coast] tiles"],
-		"weight": 10
-	},
-	{
-		"name": "Mount Kilimanjaro",
-		"type": "NaturalWonder",
-		"food": 3,
-		"culture": 2,
-		"occursOn": ["Plains","Grassland"],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [2] to [6] [Hill] tiles",
-			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game"],
-		"weight": 10
-	},
 	// Added Wonders
 	{
 		"name": "Socatra",
@@ -290,6 +250,21 @@
 			"Must be adjacent to [0] [Grassland] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Must be adjacent to [0] to [4] [Elevated] tiles",
+			"Neighboring tiles will convert to [Desert]"],
+		"turnsInto": "Desert",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Dead Sea",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"faith": 3,
+		"overrideStats": true,
+		"occursOn": ["Lake"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [1] to [6] [Desert] tiles",
 			"Neighboring tiles will convert to [Desert]"],
 		"turnsInto": "Desert",
 		"impassable": true,
