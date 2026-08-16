@@ -223,8 +223,10 @@
 		"occoursOn": ["Ocean"],
 		"turnsInto": "Plains",
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
+			"Must be adjacent to [6] [Water] tiles",
 			"Must be adjacent to [0] [Ice] tiles",
-			"Neighboring tiles will convert to [Coast]"],
+			"Occurs in groups of [1] to [3] tiles",
+			"Neighboring tiles will convert to [Coast] <in tiles without [Socatra]>"],
 		"unbuildable": true,
 		"weight": 10
 	},
