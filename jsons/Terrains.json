@@ -12,6 +12,16 @@
 			"Must be adjacent to [0] [Ice] tiles",
 			"Neighboring tiles will convert to [Coast]"],
     "unbuildable": true,
+    "weight": 10
+	},
+	{
+		"name": "Blood Falls",
+    "type": "NaturalWonder",
+    "science": 5,
+    "occoursOn": ["Snow"],
+    "turnsInto": "Snow",
+    "uniques": ["Must be adjacent to [1] to [6] [Snow] tiles","Provides [1] [Iron]"],
+    "unbuildable": true,
     "weight": 8
-	}
+	},
 ]
