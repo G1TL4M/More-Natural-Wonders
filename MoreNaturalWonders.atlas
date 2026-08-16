@@ -7,13 +7,13 @@ TileSets/FantasyHex/Tiles/Socatra
   rotate: false
   xy: 4, 6
   size: 32, 30
-  orig: 0, 0
+  orig: 32, 30
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Blood Falls
   rotate: false
-  xy: 44, 6
+  xy: 44, 4
   size: 32, 28
-  orig: 0, 0
+  orig: 32, 28
   offset: 0, 0
   index: -1
