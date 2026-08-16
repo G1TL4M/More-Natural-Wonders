@@ -6,7 +6,7 @@
     "culture": 3,
     "gold": 3,
     "science": 3,
-    "occoursOn": ["Grassland","Plains"],
+    "occoursOn": ["Grassland","Plains","Coast"],
     "turnsInto": "Plains",
     "uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [0] [Ice] tiles",
