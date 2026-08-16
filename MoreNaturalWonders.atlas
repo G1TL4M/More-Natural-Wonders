@@ -1,5 +1,5 @@
 MoreNaturalWonders.png
-size: 80, 40
+size: 120, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -13,6 +13,13 @@ TileSets/FantasyHex/Tiles/Socatra
 TileSets/FantasyHex/Tiles/Blood Falls
   rotate: false
   xy: 44, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Eye Of Sahara
+  rotate: false
+  xy: 84, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
