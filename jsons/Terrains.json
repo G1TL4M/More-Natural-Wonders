@@ -262,7 +262,7 @@
 		"culture": 2,
 		"faith": 3,
 		"overrideStats": true,
-		"occursOn": ["Lake"],
+		"occursOn": ["Lakes"],
 		"uniques": ["Must be adjacent to [0] [Coast] tiles",
 			"Must be adjacent to [1] to [6] [Desert] tiles",
 			"Neighboring tiles will convert to [Desert]"],
