@@ -24,4 +24,20 @@
     "unbuildable": true,
     "weight": 10
 	},
+	{
+		"name": "Eye Of Sahara",
+		"type": "NaturalWonder",
+		"gold": 2,
+		"science": 3,
+		"occursOn": ["Desert"],
+		"uniques": ["Must be adjacent to [0] [Coast] tiles",
+			"Must be adjacent to [0] [Grassland] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Must be adjacent to [0] to [4] [Elevated] tiles",
+			"Neighboring tiles will convert to [Desert]"],
+		"turnsInto": "Desert",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	}
 ]
