@@ -12,7 +12,7 @@ TileSets/FantasyHex/Tiles/Socatra
   index: -1
 TileSets/FantasyHex/Tiles/Blood Falls
   rotate: false
-  xy: 4, 4
+  xy: 44, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
