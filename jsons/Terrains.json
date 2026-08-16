@@ -270,5 +270,19 @@
 		"impassable": true,
 		"unbuildable": true,
 		"weight": 10
+	},
+	{
+		"name": "Mount Kineo",
+		"type": "NaturalWonder",
+		"gold": 2,
+		"production": 5,
+		"overrideStats": true,
+		"occursOn": ["Plains","Mountain"],
+		"uniques": ["Must be adjacent to [1] to [3] [Lakes] tiles",
+			"Must be adjacent to [0] [Desert] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
 	}
 ]
