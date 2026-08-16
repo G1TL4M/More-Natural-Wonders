@@ -18,7 +18,7 @@
 		"name": "Blood Falls",
     "type": "NaturalWonder",
     "science": 5,
-    "occoursOn": ["Snow","Tundra"],
+    "occoursOn": ["Snow"],
     "turnsInto": "Snow",
     "uniques": ["Must be adjacent to [1] to [6] [Snow] tiles","Provides [1] [Iron]"],
     "unbuildable": true,
