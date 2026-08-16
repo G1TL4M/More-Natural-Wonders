@@ -22,6 +22,7 @@
     "turnsInto": "Snow",
     "uniques": ["Must be adjacent to [1] to [6] [Snow] tiles","Provides [1] [Iron]"],
     "unbuildable": true,
+	"impassable": true,
     "weight": 10
 	},
 	{
