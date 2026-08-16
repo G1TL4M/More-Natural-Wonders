@@ -31,3 +31,10 @@ TileSets/FantasyHex/Tiles/Dead Sea
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Mount Kineo
+  rotate: false
+  xy: 164, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
