@@ -236,8 +236,8 @@
 		"science": 5,
 		"occoursOn": ["Snow","Tundra"],
 		"turnsInto": "Snow",
-		"uniques": ["Must be adjacent to [1] to [6] [Snow] tiles",
-			"Provides [1] [Iron]"],
+		"uniques": ["Must be adjacent to [1] to [4] [Snow] tiles",
+			"Must be adjacent to [1] [Water] tiles"],
 		"unbuildable": true,
 		"impassable": true,
 		"weight": 10
