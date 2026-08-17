@@ -343,7 +343,7 @@
 		"science": 5,
 		"occursOn": ["Ocean"],
 		"uniques": ["Must be adjacent to [1] to [5] [Ocean] tiles",
-			"Must be adjacent to [1] [Coast] tiles",
+			"Must be adjacent to [1] to [2] [Coast] tiles",
 			"Occurs in groups of [1] to [2] tiles"],
 		"turnsInto": "Ocean",
 		"unbuildable": true,
