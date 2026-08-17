@@ -220,7 +220,7 @@
 		"culture": 3,
 		"gold": 3,
 		"science": 3,
-		"occoursOn": ["Ocean"],
+		"occoursOn": ["Coast","Ocean"],
 		"turnsInto": "Plains",
 		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
