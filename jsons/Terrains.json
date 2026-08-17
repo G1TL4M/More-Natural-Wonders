@@ -356,7 +356,8 @@
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
-			"Must be adjacent to [0] [Mountain] tiles",],
+			"Must be adjacent to [0] [Mountain] tiles",
+		],
 		"weight": 10
 	},
 ]
