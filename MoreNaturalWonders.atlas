@@ -1,5 +1,5 @@
 MoreNaturalWonders.png
-size: 320, 40
+size: 400, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -59,3 +59,18 @@ TileSets/FantasyHex/Tiles/Mount Kilimanjaro
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Mariana Trench
+  rotate: false
+  xy: 324, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/White Cliffs
+  rotate: false
+  xy: 364, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+
