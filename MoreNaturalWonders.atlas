@@ -1,5 +1,5 @@
 MoreNaturalWonders.png
-size: 160, 40
+size: 320, 40
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -48,6 +48,13 @@ TileSets/FantasyHex/Tiles/Darian Gap
 TileSets/FantasyHex/Tiles/Pantanal
   rotate: false
   xy: 244, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Mount Kilimanjaro
+  rotate: false
+  xy: 284, 4
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
