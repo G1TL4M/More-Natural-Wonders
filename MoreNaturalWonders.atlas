@@ -38,3 +38,17 @@ TileSets/FantasyHex/Tiles/Mount Kineo
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Darian Gap
+  rotate: false
+  xy: 204, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Pantanal
+  rotate: false
+  xy: 244, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
