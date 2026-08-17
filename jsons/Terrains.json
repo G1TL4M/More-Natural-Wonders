@@ -336,5 +336,27 @@
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
 			"Grants [Altitude Training] ([double movement and +10% Strength in hills]) to adjacent [Land] units for the rest of the game"],
 		"weight": 10
-	}
+	},
+	{
+		"name": "Mariana Trench",
+		"type": "NaturalWonder",
+		"science": 5,
+		"occursOn": ["Ocean"],
+		"uniques": ["Must be adjacent to [1] to [6] [Ocean] tiles"],
+		"turnsInto": "Ocean",
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "White Cliffs",
+		"type": "NaturalWonder",
+		"food": 3,
+		"culture": 2,
+		"occursOn": ["Grassland"],
+		"turnsInto": "Grassland",
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
+			"Must be adjacent to [0] [Mountain] tiles",],
+		"weight": 10
+	},
 ]
