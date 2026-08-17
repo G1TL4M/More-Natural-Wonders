@@ -222,7 +222,7 @@
 		"science": 3,
 		"occoursOn": ["Coast","Ocean"],
 		"turnsInto": "Plains",
-		"uniques": ["Must be adjacent to [1] to [6] [Coast] tiles",
+		"uniques": ["Must be adjacent to [1] to [4] [Coast] tiles",
 			"Must be adjacent to [6] [Water] tiles",
 			"Must be adjacent to [0] [Ice] tiles",
 			"Occurs in groups of [1] to [3] tiles",
