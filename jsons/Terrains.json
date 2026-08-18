@@ -294,7 +294,7 @@
 		"type": "NaturalWonder",
 		"gold": 2,
 		"science": 3,
-		"occursOn": ["Jungle"],
+		"occursOn": ["Jungle","Coast"],
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
 			"Must be adjacent to [2] [Grassland] tiles",
 			"Occurs in groups of [2] to [2] tiles",
@@ -359,7 +359,8 @@
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
-			"Must be adjacent to [0] [Mountain] tiles"],
+			"Must be adjacent to [0] [Mountain] tiles",
+			"Must not be on [1] largest landmasses"],
 		"weight": 10
 	},
 	{
@@ -399,5 +400,17 @@
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"weight": 10
-	}
+	},
+	{
+		"name": "Chocolate Hills",
+		"type": "NaturalWonder",
+		"food": 1,
+		"happiness": 2,
+		"occoursOn": ["Grassland","Plains"]
+		"uniques": ["Must be adjacent to [0] [Desert] tiles",
+			"Must not be on [1] largest landmasses"],
+		"turnsInto": "Grassland",
+		"unbuildable": true,
+		"weight": 10
+	},
 ]
