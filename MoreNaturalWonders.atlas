@@ -94,3 +94,10 @@ TileSets/FantasyHex/Tiles/Redwood Forest
   orig: 32, 38
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Chocolate Hills
+  rotate: false
+  xy: 124, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
