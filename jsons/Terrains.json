@@ -372,5 +372,32 @@
 		"uniques": ["Must be adjacent to [1] to [6] [Snow] tiles",
 			"Must be adjacent to [0] [Coast] tiles"],
 		"weight": 10
+	},
+	{
+		"name": "Tunguska",
+		"type": "NaturalWonder",
+		"science": 2,
+		"occursOn": ["Tundra"],
+		"uniques": ["Must be adjacent to [1] to [5] [Tundra] tiles",
+			"Must be adjacent to [1] to [3] [Forest] tiles",
+			"Must be adjacent to [0] [Coast] tiles",
+			"Occurs in groups of [1] to [3] tiles"],
+		"turnsInto": "Ocean",
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Redwood Forest",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"science": 2,
+		"production": 2,
+		"occursOn": ["Grassland"],
+		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
+			"Must be adjacent to [0] to [2] [Mountain] tiles",
+			"Occurs in groups of [1] to [3] tiles"],
+		"turnsInto": "Grassland",
+		"unbuildable": true,
+		"weight": 10
 	}
 ]
