@@ -66,11 +66,10 @@ TileSets/FantasyHex/Tiles/Mariana Trench
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/White Cliffs
+TileSets/FantasyHex/Tiles/Lake Vostok
   rotate: false
-  xy: 364, 4
+  xy: 4, 44
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
-
