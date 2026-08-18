@@ -80,3 +80,17 @@ TileSets/FantasyHex/Tiles/Lake Vostok
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Tunguska
+  rotate: false
+  xy: 44, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Redwood Forest
+  rotate: false
+  xy: 84, 40
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
