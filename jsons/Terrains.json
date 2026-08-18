@@ -407,7 +407,7 @@
 		"type": "NaturalWonder",
 		"food": 1,
 		"happiness": 2,
-		"occoursOn": ["Grassland","Plains"]
+		"occoursOn": ["Grassland","Plains"],
 		"uniques": ["Must be adjacent to [0] [Desert] tiles",
 			"Must not be on [1] largest landmasses",
 			"Occurs in groups of [1] to [3] tiles"],
