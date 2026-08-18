@@ -234,11 +234,12 @@
 	{
 		"name": "Blood Falls",
 		"type": "NaturalWonder",
-		"science": 5,
+		"science": 4,
+		"production": 2,
 		"occoursOn": ["Snow","Tundra"],
 		"turnsInto": "Snow",
 		"uniques": ["Must be adjacent to [1] to [4] [Snow] tiles",
-			"Must be adjacent to [1] [Water] tiles"],
+			"Must be adjacent to [1] [Coast] tiles"],
 		"unbuildable": true,
 		"impassable": true,
 		"weight": 10
@@ -294,7 +295,7 @@
 		"type": "NaturalWonder",
 		"gold": 2,
 		"science": 3,
-		"occursOn": ["Jungle","Coast"],
+		"occursOn": ["Jungle"],
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
 			"Must be adjacent to [2] [Grassland] tiles",
 			"Occurs in groups of [2] to [2] tiles",
