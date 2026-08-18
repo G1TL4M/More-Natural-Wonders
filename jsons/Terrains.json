@@ -294,7 +294,7 @@
 		"type": "NaturalWonder",
 		"gold": 2,
 		"science": 3,
-		"movementCost": 1,
+		"movementCost": 3,
 		"defenceBonus": 0.5,
 		"occursOn": ["Jungle"],
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
