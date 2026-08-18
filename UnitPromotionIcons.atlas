@@ -1,3 +1,8 @@
+UnitPromotionIcons.png
+size: 50, 50
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 UnitPromotionIcons/Altitude Training
   rotate: false
   xy: 0, 0
