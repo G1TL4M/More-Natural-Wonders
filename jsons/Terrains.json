@@ -363,4 +363,14 @@
 		],
 		"weight": 10
 	},
+	{
+		"name": "Lake Vostok",
+		"type": "NaturalWonder",
+		"science": 5,
+		"occursOn": ["Snow"],
+		"turnsInto": "Lake",
+		"unbuildable": true,
+		"uniques": ["Must be adjacent to [1] to [6] [Snow] tiles"],
+		"weight": 10
+	}
 ]
