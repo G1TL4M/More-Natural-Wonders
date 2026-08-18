@@ -393,10 +393,10 @@
 		"culture": 2,
 		"science": 2,
 		"production": 2,
-		"occursOn": ["Grassland"],
+		"occursOn": ["Grassland","Plains"],
 		"uniques": ["Must be adjacent to [1] to [3] [Coast] tiles",
 			"Must be adjacent to [0] to [2] [Mountain] tiles",
-			"Occurs in groups of [1] to [3] tiles"],
+			"Occurs in groups of [1] to [4] tiles"],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"weight": 10
@@ -408,7 +408,8 @@
 		"happiness": 2,
 		"occoursOn": ["Grassland","Plains"]
 		"uniques": ["Must be adjacent to [0] [Desert] tiles",
-			"Must not be on [1] largest landmasses"],
+			"Must not be on [1] largest landmasses",
+			"Occurs in groups of [1] to [3] tiles"],
 		"turnsInto": "Grassland",
 		"unbuildable": true,
 		"weight": 10
