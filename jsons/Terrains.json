@@ -369,7 +369,8 @@
 		"occursOn": ["Snow"],
 		"turnsInto": "Lakes",
 		"unbuildable": true,
-		"uniques": ["Must be adjacent to [1] to [6] [Snow] tiles"],
+		"uniques": ["Must be adjacent to [1] to [6] [Snow] tiles",
+			"Must be adjacent to [0] [Coast] tiles"],
 		"weight": 10
 	}
 ]
