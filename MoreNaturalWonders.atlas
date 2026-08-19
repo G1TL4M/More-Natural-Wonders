@@ -101,3 +101,17 @@ TileSets/FantasyHex/Tiles/Chocolate Hills
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Chicxulub Crater
+  rotate: false
+  xy: 164, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Kalambo Falls
+  rotate: false
+  xy: 224, 44
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
