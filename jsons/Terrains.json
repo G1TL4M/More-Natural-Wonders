@@ -391,7 +391,7 @@
 			"Must be adjacent to [1] to [3] [Forest] tiles",
 			"Must be adjacent to [0] [Coast] tiles",
 			"Occurs in groups of [1] to [3] tiles"],
-		"turnsInto": "Ocean",
+		"turnsInto": "Tundra",
 		"unbuildable": true,
 		"weight": 10
 	},
