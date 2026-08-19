@@ -366,7 +366,8 @@
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
-			"Must not be on [1] largest landmasses"],
+			"Must not be on [1] largest landmasses",
+			"[+2 Science] after discovering [Archeology]"],
 		"weight": 10
 	},
 	{
@@ -427,4 +428,33 @@
 		"unbuildable": true,
 		"weight": 10
 	},
+	{
+		"name": "Chicxulub Crater",
+		"type": "NaturalWonder",
+		"movementCost": 1,
+		"occoursOn": ["Coast"],
+		"uniques": ["Must be adjacent to [1] to [3] [Grassland] tiles",
+			"[+6 Science, +2 Gold] after discovering [Archeology]"],
+		"turnsInto": "Coast",
+		"unbuildable": true,
+		"weight": 10
+	},
+	{
+		"name": "Kalambo Falls",
+		"type": "NaturalWonder",
+		"food": 2,
+		"culture": 1,
+		"happiness": 1,
+		"overrideStats": true,
+		"occoursOn": ["Grassland"],
+		"uniques": ["Must be adjacent to [1] to [2] [Lakes] tiles",
+			"Must be adjacent to [0] [Desert] tiles",
+			"Must be adjacent to [0] [Tundra] tiles",
+			"Must be adjacent to [0] [Snow] tiles",
+			"[+2 Science] after discovering [Archeology]"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	}
 ]
