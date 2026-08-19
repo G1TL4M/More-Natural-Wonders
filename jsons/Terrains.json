@@ -367,7 +367,7 @@
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
 			"Must not be on [1] largest landmasses",
-			"[+2 Science] after discovering [Archeology]"],
+			"[+2 Science] after discovering [Archaeology]"],
 		"weight": 10
 	},
 	{
@@ -434,7 +434,7 @@
 		"movementCost": 1,
 		"occoursOn": ["Coast"],
 		"uniques": ["Must be adjacent to [1] to [3] [Grassland] tiles",
-			"[+6 Science, +2 Gold] after discovering [Archeology]"],
+			"[+6 Science, +2 Gold] after discovering [Archaeology]"],
 		"turnsInto": "Coast",
 		"unbuildable": true,
 		"weight": 10
@@ -451,7 +451,7 @@
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
 			"Must be adjacent to [0] [Snow] tiles",
-			"[+2 Science] after discovering [Archeology]"],
+			"[+2 Science] after discovering [Archaeology]"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
