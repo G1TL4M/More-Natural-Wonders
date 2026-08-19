@@ -110,7 +110,7 @@ TileSets/FantasyHex/Tiles/Chicxulub Crater
   index: -1
 TileSets/FantasyHex/Tiles/Kalambo Falls
   rotate: false
-  xy: 224, 44
+  xy: 204, 44
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
