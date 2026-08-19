@@ -366,8 +366,7 @@
 		"unbuildable": true,
 		"uniques": ["Must be adjacent to [2] to [4] [Coast] tiles",
 			"Must be adjacent to [0] [Mountain] tiles",
-			"Must not be on [1] largest landmasses",
-			"[+2 Science] after discovering [Archaeology]"],
+			"Must not be on [1] largest landmasses"],
 		"weight": 10
 	},
 	{
@@ -431,10 +430,10 @@
 	{
 		"name": "Chicxulub Crater",
 		"type": "NaturalWonder",
+		"science": 5,
 		"movementCost": 1,
 		"occoursOn": ["Coast"],
-		"uniques": ["Must be adjacent to [1] to [3] [Grassland] tiles",
-			"[+6 Science, +2 Gold] after discovering [Archaeology]"],
+		"uniques": ["Must be adjacent to [1] to [3] [Grassland] tiles"],
 		"turnsInto": "Coast",
 		"unbuildable": true,
 		"weight": 10
@@ -445,13 +444,13 @@
 		"food": 2,
 		"culture": 1,
 		"happiness": 1,
+		"science": 2,
 		"overrideStats": true,
 		"occoursOn": ["Grassland"],
 		"uniques": ["Must be adjacent to [1] to [2] [Lakes] tiles",
 			"Must be adjacent to [0] [Desert] tiles",
 			"Must be adjacent to [0] [Tundra] tiles",
-			"Must be adjacent to [0] [Snow] tiles",
-			"[+2 Science] after discovering [Archaeology]"],
+			"Must be adjacent to [0] [Snow] tiles"],
 		"turnsInto": "Mountain",
 		"impassable": true,
 		"unbuildable": true,
